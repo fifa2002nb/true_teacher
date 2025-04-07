@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217250091214",
+    "project_id": "true-teacher-dd0a3",
+    "storage_bucket": "true-teacher-dd0a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217250091214:android:2a7b082135e713ff79409f",
+        "android_client_info": {
+          "package_name": "trueteacher.u120105.com.true_teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2LTo6jWE1MNuWb5273xBPD1PQIPeDbd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
